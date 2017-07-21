@@ -73,7 +73,7 @@ https://github.com/
 Change log
 ----------
 
-See `CHANGELOG <https://github.com/arsho/bangla/blob/master/CHANGELOG.rst>`_.
+See `CHANGELOG <https://github.com/arsho/generator/blob/master/CHANGELOG.rst>`_.
 
 .. |Build Status| image:: https://travis-ci.org/arsho/generator.svg?branch=master
    :target: https://travis-ci.org/arsho/generator
